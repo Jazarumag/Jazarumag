@@ -13,6 +13,6 @@ proyectos y mis intereses.
 ## Proyectos
 * [Lista de tus proyectos]
 ## Intereses
-* Jugar Ping Pong.
-* Practicar Ciclismo, Padel y Tenis.
-* Reposteria.
+* Manejo de bases de datos
+* Diseño de paginas web
+
