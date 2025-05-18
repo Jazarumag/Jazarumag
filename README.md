@@ -3,20 +3,20 @@
 
 Este es mi sitio personal. Aquí puedes encontrar información sobre mí, mis
 proyectos y mis intereses.
-## Contenido 📖
+## 📖 Contenido
 * [Información personal](#información-personal)
 * [Proyectos](#proyectos)
 * [Intereses](#intereses)
-## Información personal 🧮
+## 🧮 Información personal 
 * **Nombre:** Joshua Zaruma
 * **Ocupación:** Estudiante de Ingeniería en Computación en [ESPOL](https://www.espol.edu.ec/es)
 * **Lugar de residencia:** Guayaquil, Ecuador
 * **Sitio web:** n/a
-## Proyectos 🖥️
+## 🖥️ Proyectos
 * [Carpool_ESPOL](https://github.com/jojusuar/Carpool_ESPOL)
-## Intereses 📚
+## 📚 Intereses
 * Manejo de bases de datos
 * Diseño de paginas web
-## Contacto 📫
+## 📫 Contacto
 * **Correo:** [jazaruma@espol.edu.ec](mailto:jazaruma@espol.edu.ec)
 * **Github:** [@Jazarumag](https://github.com/Jazarumag)
