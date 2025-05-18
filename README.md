@@ -3,7 +3,6 @@
 
 Este es mi sitio personal. Aquí puedes encontrar información sobre mí, mis
 proyectos y mis intereses.
----
 ## Contenido 📖
 * [Información personal](#información-personal)
 * [Proyectos](#proyectos)
@@ -18,4 +17,6 @@ proyectos y mis intereses.
 ## Intereses 📚
 * Manejo de bases de datos
 * Diseño de paginas web
-
+## Contacto 📫
+* **Correo:** [jazaruma@espol.edu.ec](mailto:jazaruma@espol.edu.ec)
+* **Github:** [@Jazarumag](https://github.com/Jazarumag)
